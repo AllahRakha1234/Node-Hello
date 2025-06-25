@@ -1,0 +1,24 @@
+{
+  "name": "testing-app",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js server using Express, designed for easy deployment on AWS EC2 for learning purposes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllahRakha1234/Node-Hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllahRakha1234/Node-Hello/issues"
+  },
+  "homepage": "https://github.com/AllahRakha1234/Node-Hello#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
